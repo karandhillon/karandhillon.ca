@@ -1,0 +1,50 @@
+# ==========================================
+# 1. Site Configuration
+# ==========================================
+baseURL: 'https://karandhillon.ca/'
+languageCode: 'en-us'
+title: 'Karan Dhillon'
+theme: ["PaperMod"]
+
+# --- ADD THIS SECTION ---
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows HTML like <img> in your markdown
+# ------------------------
+
+# ==========================================
+# 2. Navigation Menu
+# ==========================================
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 10
+    - identifier: about
+      name: About 
+      url: /about/
+      weight: 20
+
+# ==========================================
+# 3. Theme Parameters (PaperMod Specific)
+# ==========================================
+params:
+  # --- Content ---
+  mainSections:
+    - posts
+
+  # --- Appearance ---
+  defaultTheme: dark
+  disableThemeToggle: true
+  hideFooter: true
+  
+  # --- Blog List Customization ---
+  hideSummary: true       
+  hidemeta: false         
+  ShowReadingTime: false  
+  
+  # --- Post Features ---
+  ShowCodeCopyButtons: true
+  ShowShareButtons: false

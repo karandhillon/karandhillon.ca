@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on Karan Dhillon</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Karan Dhillon</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;h1 id=&#34;karan-dhillon&#34;&gt;Karan Dhillon&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Software Engineer | Performance &amp;amp; Reliability Specialist&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I am a software engineer with over 7 years of Android development experience, specializing in performance engineering, system health, and large-scale debugging for high-traffic apps. Currently, I am at &lt;strong&gt;Instagram (Meta)&lt;/strong&gt;, focusing on optimizing experiences for over 1 billion daily active users.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h3&gt;
+&lt;h4 id=&#34;instagram-meta--software-engineer-mar-2022--current&#34;&gt;&lt;strong&gt;Instagram, Meta&lt;/strong&gt; | &lt;em&gt;Software Engineer&lt;/em&gt; (Mar 2022 – Current)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;App Start Optimization:&lt;/strong&gt; Designed and deployed an ML model to predict app-start types, contributing to a 20% increase in lukewarm starts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Navigation Latency:&lt;/strong&gt; Improved navigation latency on Feed by 15%, Reels by 12%, and Stories by 8% using network streaming and layout pre-inflation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;System Health:&lt;/strong&gt; Reduced main-thread red events (busy for 1000ms) by 5% and yellow events by 15%, directly improving scroll performance and reducing jank.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Incident Management:&lt;/strong&gt; Investigated top-line metric regressions and led multiple SEV1/SEV2 investigations across global outages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;hootsuite--software-engineer-mar-2021--mar-2022&#34;&gt;&lt;strong&gt;Hootsuite&lt;/strong&gt; | &lt;em&gt;Software Engineer&lt;/em&gt; (Mar 2021 – Mar 2022)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Reliability:&lt;/strong&gt; Maintained Android applications serving over 500,000 monthly active users (MAU).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Modernization:&lt;/strong&gt; Led critical modernization efforts, including the migration from Dagger to Hilt and CI pipeline updates.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accessibility:&lt;/strong&gt; Implemented TalkBack and Screen Reader support to ensure compliance and enhance usability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;homestars--mobile-engineer-dec-2019--mar-2021&#34;&gt;&lt;strong&gt;HomeStars&lt;/strong&gt; | &lt;em&gt;Mobile Engineer&lt;/em&gt; (Dec 2019 – Mar 2021)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Feature Delivery:&lt;/strong&gt; Delivered core Android features in Kotlin and Java for a user base of 50,000+ MAU.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stability:&lt;/strong&gt; Significantly improved app stability by implementing Jetpack components, Room database, and monitoring via Crashlytics and Datadog.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Kotlin, Java, C++, C, SQL.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Android:&lt;/strong&gt; Jetpack (Lifecycle, Room, Navigation), Compose, Coroutines, Flows, and WorkManager.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Performance Tooling:&lt;/strong&gt; Perfetto, Systrace, and Android Studio Profiler.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Expertise:&lt;/strong&gt; ML-Driven Optimization, System Health, SEV Leadership, and Large-Scale Debugging.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Postgraduate Certificate, Enterprise Software Development&lt;/strong&gt; | Humber College, Toronto.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bachelor of Technology, Computer Science&lt;/strong&gt; | Punjab Technical University, India.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://linkedin.com/in/KaranDhillon95&#34;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&#34;mailto:itsmekarandhillon@gmail.com&#34;&gt;Email&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

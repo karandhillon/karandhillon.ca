@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Karan Dhillon</title>
-    <link>https://karandhillon.ca/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Karan Dhillon</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <atom:link href="https://karandhillon.ca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Dec 2025 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First post coming soon!</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 22 Dec 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>TBD</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am a software engineer with over 7+ years of Android development experience, specializing in performance engineering, system health, and large-scale debugging for high-traffic apps.&lt;/p&gt;
+&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+&lt;h3 id=&#34;instagram&#34;&gt;&lt;img src=&#34;instagram.png&#34; width=&#34;30&#34; style=&#34;vertical-align: middle; display: inline-block;&#34;&gt; &lt;span style=&#34;vertical-align: middle;&#34;&gt;Instagram&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Mar 2022 - Current&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and deployed an ML model to predict app-start, contributing to a 10% decrease in cold app-starts.&lt;/li&gt;
+&lt;li&gt;Improved navigation latency of main-feed, reels, and profile using network streaming and layout pre-inflation.&lt;/li&gt;
+&lt;li&gt;Reduced main-thread red events (busy for 1000ms or longer) by 5% and yellow events by 15%, directly improving scroll performance and reducing &lt;em&gt;jank&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Resolved high-priority (SEV1/SEV2) scroll-performance regressions, ensuring smooth user experiences across global surfaces.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hootsuite&#34;&gt;&lt;img src=&#34;hootsuite.svg&#34; width=&#34;30&#34; style=&#34;vertical-align: middle; display: inline-block;&#34;&gt; &lt;span style=&#34;vertical-align: middle;&#34;&gt;Hootsuite&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Mar 2021 – Mar 2022&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
