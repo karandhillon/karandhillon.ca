@@ -6,12 +6,10 @@ languageCode: 'en-us'
 title: 'Karan Dhillon'
 theme: ["PaperMod"]
 
-# --- ADD THIS SECTION ---
 markup:
   goldmark:
     renderer:
       unsafe: true # Allows HTML like <img> in your markdown
-# ------------------------
 
 # ==========================================
 # 2. Navigation Menu
@@ -39,7 +37,19 @@ params:
   defaultTheme: dark
   disableThemeToggle: true
   hideFooter: true
-  
+
+  # --- Favicon Configuration ---
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
+
+  # --- Branding Label ---
+  label:
+    text: "Karan Dhillon"
+
   # --- Blog List Customization ---
   hideSummary: true       
   hidemeta: false         
